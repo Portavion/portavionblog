@@ -10,10 +10,10 @@
     <atom:link href="https://portavion.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post test</title>
-      <link>https://portavion.github.io/posts/first-post-test/</link>
+      <link>https://portavion.github.io/posts/first-post/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://portavion.github.io/posts/first-post-test/</guid>
-      <description>&lt;p&gt;Heyo is this gonna work?&lt;/p&gt;&#xA;&lt;h1 id=&#34;please-work-that-would-be-cool&#34;&gt;Please work that would be cool&lt;/h1&gt;&#xA;&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;https://portavion.github.io/images/CleanShot%202024-12-06%20at%2022.41.02@2x.png&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://portavion.github.io/posts/first-post/</guid>
+      <description>&lt;p&gt;Heyo is this gonna work?&lt;/p&gt;&#xA;&lt;h1 id=&#34;please-work-that-would-be-cool&#34;&gt;Please work that would be cool&lt;/h1&gt;&#xA;&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;https://portavion.github.io/images/whatis.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

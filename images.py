@@ -5,7 +5,7 @@ import shutil
 # Paths
 posts_dir = "/Users/portavion/repos/portavionblog/content/posts/"
 attachments_dir = "/Users/portavion/brain/3-resources/attachments/"
-static_images_dir = "/Users/portavion/repos/portavionblog/static/images/"
+static_images_dir = "/Users/portavion/repos/portavionblog/static/img/"
 
 
 # Step 1: Process each markdown file in the posts directory

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Porta&#39;s shitty blog</title>
-    <link>/</link>
+    <link>https://portavion.github.io/</link>
     <description>Recent content on Porta&#39;s shitty blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://portavion.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post test</title>
-      <link>/posts/first-post-test/</link>
+      <link>https://portavion.github.io/posts/first-post-test/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/first-post-test/</guid>
-      <description>&lt;p&gt;Heyo is this gonna work?&lt;/p&gt;&#xA;&lt;h1 id=&#34;please-work-that-would-be-cool&#34;&gt;Please work that would be cool&lt;/h1&gt;&#xA;&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CleanShot%202024-12-06%20at%2022.41.02@2x.png&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://portavion.github.io/posts/first-post-test/</guid>
+      <description>&lt;p&gt;Heyo is this gonna work?&lt;/p&gt;&#xA;&lt;h1 id=&#34;please-work-that-would-be-cool&#34;&gt;Please work that would be cool&lt;/h1&gt;&#xA;&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;https://portavion.github.io/images/CleanShot%202024-12-06%20at%2022.41.02@2x.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -10,4 +10,4 @@ tags:
 Heyo is this gonna work?
 # Please work that would be cool
 
-!![Image Description](/images/whatis.png)
+![Image Description](/img/whatis.png)

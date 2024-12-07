@@ -1,4 +1,4 @@
-baseURL = 'https://portavion.github.io/'
+baseURL = 'https://portavion.github.io/portavionblog'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ardeidae"

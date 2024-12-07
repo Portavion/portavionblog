@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/creamy-dijon-chicken/</loc>
+    <loc>https://blog.portavion.net/posts/creamy-dijon-chicken/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://blog.portavion.net/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://blog.portavion.net/posts/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/recipe/</loc>
+    <loc>https://blog.portavion.net/tags/recipe/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://blog.portavion.net/tags/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/first-post/</loc>
+    <loc>https://blog.portavion.net/posts/first-post/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/music/</loc>
+    <loc>https://blog.portavion.net/tags/music/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/test/</loc>
+    <loc>https://blog.portavion.net/tags/test/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://blog.portavion.net/series/</loc>
   </url>
 </urlset>

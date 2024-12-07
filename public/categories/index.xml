@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Porta&#39;s shitty blog</title>
-    <link>https://portavion.github.io/portavionblog/categories/</link>
-    <description>Recent content in Categories on Porta&#39;s shitty blog</description>
+    <title>Categories on Porta</title>
+    <link>https://blog.portavion.net/categories/</link>
+    <description>Recent content in Categories on Porta</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="https://portavion.github.io/portavionblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://blog.portavion.net/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

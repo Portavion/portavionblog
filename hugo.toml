@@ -1,4 +1,4 @@
-baseURL = 'https://portavion.github.io/'
+baseURL = 'https://portavion.github.io/portavionblog/'
 title = 'Porta'
 languageCode = "en-us"
 theme = "poison"

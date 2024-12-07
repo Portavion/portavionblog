@@ -1,3 +1,17 @@
 h2 {
-	color: #abb66f;
+	color: #85a99f;
+}
+
+.footnote {
+	color: #98917d;
+	font-size: 0.5rem;
+	/* text-align: center; */
+}
+
+hr {
+	border: none;
+}
+
+a:hover {
+	color: #85a99f;
 }

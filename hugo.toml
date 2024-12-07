@@ -1,5 +1,5 @@
 baseURL = 'https://portavion.github.io/'
-title = Porta
+title = 'Porta'
 languageCode = "en-us"
 theme = "poison"
 paginate = 10

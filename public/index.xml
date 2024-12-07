@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/portavionblog/</link>
+    <link>https://portavion.github.io/portavionblog/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/portavionblog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://portavion.github.io/portavionblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creamy Dijon Chicken</title>
-      <link>http://localhost:1313/portavionblog/posts/creamy-dijon-chicken/</link>
+      <link>https://portavion.github.io/portavionblog/posts/creamy-dijon-chicken/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portavionblog/posts/creamy-dijon-chicken/</guid>
+      <guid>https://portavion.github.io/portavionblog/posts/creamy-dijon-chicken/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../img/creamy-dijon-chicken.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;serving-suggestions&#34;&gt;&lt;strong&gt;Serving Suggestions&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;We served this creamy dijon chicken over some fluffy mashed potatoes to soak up all of that delicious sauce. But you can also serve it with some buttered noodles, pasta, or over rice. A simple side salad or Caesar salad would also taste great. And you can never go wrong with a side of quick sautéed vegetables like this easy sautéed asparagus recipe.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 tsp Italian seasoning&lt;/li&gt;&#xA;&lt;li&gt;1/2 tsp garlic powder&lt;/li&gt;&#xA;&lt;li&gt;1/2 tsp onion powder&lt;/li&gt;&#xA;&lt;li&gt;1/2 tsp salt&lt;/li&gt;&#xA;&lt;li&gt;1/2 tsp freshly cracked black pepper&lt;/li&gt;&#xA;&lt;li&gt;2 boneless, skinless chicken breast (about 600g)&lt;/li&gt;&#xA;&lt;li&gt;2 Tbsp olive oil&lt;/li&gt;&#xA;&lt;li&gt;2 Tbsp butter&lt;/li&gt;&#xA;&lt;li&gt;2 cloves of garlic, minced&lt;/li&gt;&#xA;&lt;li&gt;250mL chicken broth&lt;/li&gt;&#xA;&lt;li&gt;1 Tbsp Dijon mustard&lt;/li&gt;&#xA;&lt;li&gt;1 tsp Worcestershire sauce&lt;/li&gt;&#xA;&lt;li&gt;80mL heavy cream&lt;/li&gt;&#xA;&lt;li&gt;2 Tbsp grated parmesan cheese&lt;/li&gt;&#xA;&lt;li&gt;2 cups​ spinach&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;In a small bowl mix together the seasoning for the chicken: Italian seasoning, garlic powder, onion powder, salt and freshly cracked black pepper.&lt;/li&gt;&#xA;&lt;li&gt;Using a sharp knife, carefully fillet each chicken breast into two thinner cutlets. Season each breast with the seasoning mix on both sides.&lt;/li&gt;&#xA;&lt;li&gt;Heat a large skillet over medium heat and add the olive oil. Once the skillet is hot, add the chicken and cook on each side until golden brown and cooked through (about 4 minutes per side). Remove the cooked chicken to a clean plate and cover to keep warm.&lt;/li&gt;&#xA;&lt;li&gt;To the same skillet add the butter and minced garlic cloves. Turn the heat down to medium-low and sauté the garlic for one minute until fragrant.&lt;/li&gt;&#xA;&lt;li&gt;Next pour the chicken broth into the skillet and add the Dijon mustard and worcestershire sauce. Stir together and scrape up any brown bits that may be stuck to the bottom of the pan.&lt;/li&gt;&#xA;&lt;li&gt;Now add in the heavy cream and parmesan cheese and stir well. Allow the sauce to simmer in the skillet for 5 minutes. Taste the sauce at this point and add salt and pepper if desired.&lt;/li&gt;&#xA;&lt;li&gt;Add in the fresh spinach and stir it into the sauce allowing the heat to wilt the spinach.&lt;/li&gt;&#xA;&lt;li&gt;Finally, return the cooked chicken breasts to the skillet and spoon the Dijon sauce over top. Allow the chicken to heat through. Serve hot with your favorite side and enjoy!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>First post</title>
-      <link>http://localhost:1313/portavionblog/posts/first-post/</link>
+      <link>https://portavion.github.io/portavionblog/posts/first-post/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portavionblog/posts/first-post/</guid>
+      <guid>https://portavion.github.io/portavionblog/posts/first-post/</guid>
       <description>&lt;p&gt;Heyo is this gonna work?&lt;/p&gt;&#xA;&lt;h1 id=&#34;please-work-that-would-be-cool&#34;&gt;Please work that would be cool&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../img/whatis.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
